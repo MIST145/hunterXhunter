@@ -375,7 +375,7 @@ lib.callback.register('hunterXhunter:showPrgressbar', function(text, sec)
             car = true,
             move = true,
             combat = true,
-            mouse = flase
+            mouse = false
         },
         duration = 1000 * sec,
         label = text,
